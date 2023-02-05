@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Leaf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sentinel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apollo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arthas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dledger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dubbo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fastjson2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/incubator-shenyu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/logging-log4j2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickfixj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resilience4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rocketmq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shardingsphere-elasticjob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/skywalking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system-design-primer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomcat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vjtools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xxl-job" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zookeeper1" vcs="Git" />
+  </component>
+</project>
