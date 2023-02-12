@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/Sentinel" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/apollo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/arthas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cobar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/demo1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dledger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dubbo" vcs="Git" />
@@ -18,6 +19,7 @@
     <mapping directory="$PROJECT_DIR$/quickfixj" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resilience4j" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rocketmq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shardingsphere" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shardingsphere-elasticjob" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/skywalking" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-boot" vcs="Git" />
